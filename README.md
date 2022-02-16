@@ -1,2 +1,3 @@
 # BankProject
-BankProject used to test functionality in jenkins
+BankProject used to test functionality in jenkins.
+
